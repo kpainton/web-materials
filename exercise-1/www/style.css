@@ -1,0 +1,48 @@
+p {
+  font-size: 18px;
+  font-style: bold;
+  background-color: white;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: "Serif";
+}
+
+.random {
+  background-color: yellow;
+  text-align: center;
+}
+
+h6 {
+  font-family: "Common Sans"
+}
+
+h5 {
+  font-size: 12px;
+  background-color: green;
+}
+
+p:hover {
+  font-size: 80px;
+}
+
+.summary {
+  text-align: left;
+  font-family: "Times New Roman";
+}
+
+.summary:hover {
+    border-style: dotted;
+}
+
+.sidebar {
+  position:fixed;
+}
+
+h6:hover {
+  font-size: 120px;
+  color: blue;
+  text-shadow: 10px 5px 1px #000000;
+  background-color: white;
+}
