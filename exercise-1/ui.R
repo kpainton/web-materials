@@ -7,6 +7,7 @@ shinyUI(navbarPage(theme = shinytheme("cyborg"),
   # Create a tab panel for your map
   tabPanel(
     "Map",
+    includeCSS("style.css"),
     titlePanel("Electoral College Votes"),
     # Create sidebar layout
     sidebarLayout(

@@ -1,0 +1,12 @@
+name: exercise-1
+title: exercise-1
+username:
+account: kpainton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 343591
+bundleId: 1376272
+url: https://kpainton.shinyapps.io/exercise-1/
+when: 1526450704.57359
+asMultiple: FALSE
+asStatic: FALSE
